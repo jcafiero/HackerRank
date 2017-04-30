@@ -1,0 +1,9 @@
+#Author: Jennifer Cafiero
+#HackerRank Python - Arithmetic Operators
+
+a = int(raw_input())
+b = int(raw_input())
+
+print a + b
+print a - b
+print a * b
